@@ -1,0 +1,1 @@
+{"type":"module","scripts":{"test":"node --experimental-strip-types --test test/consent_checkout.test.ts","start":"node --experimental-strip-types src/consent_checkout.ts"},"dependencies":{"zod":"^3.23.8"}}
